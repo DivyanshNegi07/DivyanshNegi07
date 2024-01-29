@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech and development stuff
 - 🌱 I’m currently learning Everything and Anything 😁
 - 💞️ I’m from Dehradun , Uttarakhand
-- 📫 I’m Second year IT underGrad at NIT Jalandhar
+- 📫 I’m Pre Final year IT underGrad at NIT Jalandhar
 
 <!---
 DivyanshNegi07/DivyanshNegi07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
